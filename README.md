@@ -10,7 +10,5 @@ Submit Recipes: Share your own culinary creations with the community.
 Responsive Design: Accessible on all devices, from desktops to smartphones.
 🛠️ Tech Stack
 Frontend: HTML, CSS, Bootstrap
-📸 Screenshots
-Include screenshots of your site here.
 
 Happy Cooking! 🍳
